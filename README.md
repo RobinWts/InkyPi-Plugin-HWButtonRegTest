@@ -31,4 +31,4 @@ It is intended for development and testing only, not for regular use on a displa
 ## See Also
 
 - [PLUGIN_ACTION_REGISTRATION.md](../hardwarebuttons/PLUGIN_ACTION_REGISTRATION.md) – Guide for plugin authors
-- [ACTION_REGISTRATION_PLAN.md](../hardwarebuttons/ACTION_REGISTRATION_PLAN.md) – Design document
+
