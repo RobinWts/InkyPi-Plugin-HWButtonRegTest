@@ -27,8 +27,3 @@ It is intended for development and testing only, not for regular use on a displa
 2. Open Hardware Buttons settings and bind a button to **RegTest: Force Display** or to **Display Action 1/2/3/4**
 3. Display an instance of this plugin (via playlist or Update now)
 4. Press the bound buttons and confirm the headline updates and the display refreshes
-
-## See Also
-
-- [PLUGIN_ACTION_REGISTRATION.md](../hardwarebuttons/PLUGIN_ACTION_REGISTRATION.md) – Guide for plugin authors
-
