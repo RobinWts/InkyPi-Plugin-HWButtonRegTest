@@ -1,6 +1,6 @@
 # Hardware Buttons Reg Test
 
-A **test plugin** for validating the action registration system of the Hardware Buttons plugin.
+A **test plugin** for InkyPi validating the action registration system of the Hardware Buttons plugin.
 
 ## Purpose
 
